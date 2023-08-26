@@ -5,7 +5,7 @@
     <a href="https://www.linkedin.com/in/mohos455/"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
   </p>
   
-  <img src="https://github.com/mohamedabusrea/mohamedabusrea/blob/master/profile-img.png" align="right" width="25%"/>
+  <img src="https://github.com/mohos455/mohos455/blob/main/profile-img.png" align="right" width="25%"/>
 
 Undergrad digital IC enthusiast | Designing the future with Verilog, VHDL, and a passion for innovation
 
