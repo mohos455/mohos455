@@ -9,5 +9,5 @@
 
 Undergrad digital IC enthusiast | Designing the future with Verilog, VHDL, and a passion for innovation
 
-- 🔭 I'm aى electronics student @Cairo University in Cairo, Egypt
+- 🔭 I'm an electronics student @Cairo University in Cairo, Egypt
 - 💬 Ask me about **Digital IC design and Verilog**
